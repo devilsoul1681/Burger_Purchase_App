@@ -1,0 +1,11 @@
+z-index is used to place one item over the other the item with more z-index will be placed above
+disabable property can be used with button which disable it Onclick event
+heigth in % mean it will take size relative to parent
+always add Router in app.jsx or index.js in react;
+<Link to={{
+pathname:"",search:"",hash:""
+}}></Link>
+redux module is important
+always store state full js file in container
+
+use // eslint-disable-next-line react-hooks/exhaustive-deps if there is error like React Hook React.useEffect has a missing dependency
